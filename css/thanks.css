@@ -1,0 +1,27 @@
+body{
+    background-color: #f1f5f0;
+}
+
+
+h3{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+
+    
+}
+
+img{
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    width: 300px;
+    
+  }
